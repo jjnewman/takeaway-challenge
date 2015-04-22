@@ -6,6 +6,7 @@ Takeaway Challenge
 - The Twilio gem was quite satisfying - it was great to see a final output from our code in the form of a text message.
 - This was quite early days in the course and I made one fundamental error by using numerous "puts" statements in my code (the pre-course Student Directory challenge clearly influenced me on this). Also SRP isn't followed satisfactorily. So definitely a learning experience for me. I plan to do this challenge again soon to hopefully provide evidence of how far I've progressed!
 
+[![Code Climate](https://codeclimate.com/github/jjnewman/takeaway-challenge/badges/gpa.svg)](https://codeclimate.com/github/jjnewman/takeaway-challenge)
 
 -------------------------------
 
