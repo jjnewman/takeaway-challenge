@@ -1,6 +1,16 @@
 Takeaway Challenge
 ==================
 
+-------------------------------
+#Post-completion comments
+- The Twilio gem was quite satisfying - it was great to see a final output from our code in the form of a text message.
+- This was quite early days in the course and I made one fundamental error by using numerous "puts" statements in my code (the pre-course Student Directory challenge clearly influenced me on this). Also SRP isn't followed satisfactorily. So definitely a learning experience for me. I plan to do this challenge again soon to hopefully provide evidence of how far I've progressed!
+
+
+-------------------------------
+
+
+
 Instructions
 -------
 * Challenge time: Friday, the entire day + the weekend if you need it
