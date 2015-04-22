@@ -29,5 +29,4 @@ it 'should be able to calculate the overall total price of the order' do
   order.selection("Pepperoni",2)
   expect(order.get_overall_price).to eq 26.0
 end
-
 end
